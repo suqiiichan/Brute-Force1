@@ -1,2 +1,2 @@
-# Brute-Force1
+# Brute-Force
 memecahkan kode password
