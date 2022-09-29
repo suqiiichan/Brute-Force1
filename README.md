@@ -1,2 +1,2 @@
-# Brute-Force
+# Python
 Kumpulan Projek Python
