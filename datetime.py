@@ -1,3 +1,7 @@
+from platform import python_branch
+
+
+# script by usqi
 from datetime import datetime
 
 hari = {"Sunday":"Mingggu",
